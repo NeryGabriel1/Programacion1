@@ -12,7 +12,7 @@ public class Use_figuras {
 		JOptionPane.showMessageDialog(null, "El área del circulo es de " + figura[0].calcularArea());
 		JOptionPane.showMessageDialog(null, "El área del rectangulo es de " + figura[1].calcularArea());
 
-	}
+	} 
 
 }
 

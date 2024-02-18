@@ -14,5 +14,5 @@ public class Rectangulo extends FigurasGeo {
 	@Override
 	double calcularArea() {
 		return this.base * this.altura;
-	}
+	} 
 }
